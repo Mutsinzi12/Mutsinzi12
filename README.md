@@ -1,7 +1,7 @@
 ![Banner Image](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Jean Mutsinzi</h1>
 <h3 align="center">A passionate Cloud Practitioner from Rwanda</h3>
-<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutsinzi12&label=Profile%20views&color=0e75b6&style=flat" alt="mutsinzi12" /> </p>
 
@@ -16,6 +16,10 @@
 - 📫 How to reach me **mutsinzijean8@gmail.com**
 
 - ⚡ Fun fact **I eat once a day**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mutsinzi-jean-françois-474555221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mutsinzi-jean-françois-474555221" height="30" width="40" /></a>
 
 </p>
 
